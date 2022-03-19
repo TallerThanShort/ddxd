@@ -1,0 +1,19 @@
+body{
+	background-image: url('https://ggpht.ga/banners/1932626.png');
+}
+
+img{
+	border-radius: 20%;
+}
+
+p{
+	color: white;
+	font-size: 150%;
+}
+
+a{
+	color: whitesmoke;
+	font-size: 130%;
+	text-decoration: none;
+}
+
